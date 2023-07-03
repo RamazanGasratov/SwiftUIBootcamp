@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="191c483e-669c-42e4-ad27-b849b0e16307" name="Changes" comment="-lesson 7" />
+    <list default="true" id="191c483e-669c-42e4-ad27-b849b0e16307" name="Changes" comment="-lesson 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +34,7 @@
       <workItem from="1687765716018" duration="22000" />
       <workItem from="1687861998261" duration="20000" />
       <workItem from="1688021108203" duration="24000" />
+      <workItem from="1688106718835" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="-work 3">
       <created>1687352897757</created>
@@ -70,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688021123834</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="-lesson 8">
+      <created>1688106729293</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688106729293</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +102,7 @@
     <MESSAGE value="-lesson 5" />
     <MESSAGE value="-lesson 6" />
     <MESSAGE value="-lesson 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="-lesson 7" />
+    <MESSAGE value="-lesson 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="-lesson 8" />
   </component>
 </project>
