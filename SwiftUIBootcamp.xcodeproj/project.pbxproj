@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA2CE5792A53F4CF00B3E6B9 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2CE5782A53F4CF00B3E6B9 /* ButtonsBootcamp.swift */; };
 		FA387F202A529AEB0098E444 /* GrideBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA387F1F2A529AEB0098E444 /* GrideBootcamp.swift */; };
 		FA387F222A52A3B20098E444 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA387F212A52A3B20098E444 /* SafeAreaBootcamp.swift */; };
 		FA5DD83F2A496BCD00A96083 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5DD83E2A496BCD00A96083 /* StacksBootcamp.swift */; };
@@ -30,6 +31,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA2CE5782A53F4CF00B3E6B9 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 		FA387F1F2A529AEB0098E444 /* GrideBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrideBootcamp.swift; sourceTree = "<group>"; };
 		FA387F212A52A3B20098E444 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		FA5DD83E2A496BCD00A96083 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				FA5F5E622A4EAA7E0089EDC1 /* ScrollViewBootcamp.swift */,
 				FA387F1F2A529AEB0098E444 /* GrideBootcamp.swift */,
 				FA387F212A52A3B20098E444 /* SafeAreaBootcamp.swift */,
+				FA2CE5782A53F4CF00B3E6B9 /* ButtonsBootcamp.swift */,
 				FA8315652A41EFA20001256E /* Assets.xcassets */,
 				FA8315672A41EFA20001256E /* Preview Content */,
 			);
@@ -193,6 +196,7 @@
 				FA5DD8432A49751200A96083 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				FAE18A772A44326800E6F57A /* FrameBootcamp.swift in Sources */,
 				FAE18A792A4441AD00E6F57A /* BacgoundBootcamp.swift in Sources */,
+				FA2CE5792A53F4CF00B3E6B9 /* ButtonsBootcamp.swift in Sources */,
 				FA387F222A52A3B20098E444 /* SafeAreaBootcamp.swift in Sources */,
 				FA5F86402A42E90C00D277B2 /* IconBootcamp.swift in Sources */,
 				FA8315642A41EFA00001256E /* ContentView.swift in Sources */,
