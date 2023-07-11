@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="191c483e-669c-42e4-ad27-b849b0e16307" name="Changes" comment="-lesson 10">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="191c483e-669c-42e4-ad27-b849b0e16307" name="Changes" comment="-lesson 11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +38,7 @@
       <workItem from="1688367401420" duration="21000" />
       <workItem from="1688454709530" duration="22000" />
       <workItem from="1688454736510" duration="8000" />
+      <workItem from="1688552248386" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="-work 3">
       <created>1687352897757</created>
@@ -97,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688454726784</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="-lesson 11">
+      <created>1688552260191</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688552260191</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +142,7 @@
     <MESSAGE value="-lesson 8" />
     <MESSAGE value="-lesson 9" />
     <MESSAGE value="-lesson 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="-lesson 10" />
+    <MESSAGE value="-lesson 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="-lesson 11" />
   </component>
 </project>
