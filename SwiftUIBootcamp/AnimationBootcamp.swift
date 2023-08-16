@@ -13,21 +13,23 @@ struct AnimationBootcamp: View {
     
     var body: some View {
         VStack {
-            Button("Button") {
-             
+            Button("BUTTON") {
                     isAnimated.toggle()
-                
             }
-            Spacer()
-            RoundedRectangle(cornerRadius: isAnimated ? 50 : 25)
+           Spacer()
+            RoundedRectangle(cornerRadius: isAnimated ? 50 : 100)
                 .fill(isAnimated ? Color.red : Color.green)
-                .frame(width: isAnimated ? 100 : 300,
-                       height: isAnimated ? 100 : 300)
+                .frame(
+                    width: isAnimated ? 100 : 300,
+                    height: isAnimated ? 100 : 300
+                )
                 .rotationEffect(Angle(degrees: isAnimated ? 360 : 0))
-                .offset(y: isAnimated ? 300 : 0)
-                .animation(Animation.default.repeatCount(5, autoreverses: true))
+                .offset(CGSize(width: 0, height: isAnimated ? 300 : 0))
+                .animation(Animation
+                    .default
+                    .repeatCount(5, autoreverses: true)
+                , value: isAnimated)
             Spacer()
-            
         }
     }
 }

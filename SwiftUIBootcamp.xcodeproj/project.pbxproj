@@ -38,6 +38,9 @@
 		FAE18A792A4441AD00E6F57A /* BacgoundBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE18A782A4441AD00E6F57A /* BacgoundBootcamp.swift */; };
 		FAE3A35E2A4AC80A009D6237 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE3A35D2A4AC80A009D6237 /* SpacerBootcamp.swift */; };
 		FAE3A3602A4ACFB0009D6237 /* InitBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE3A35F2A4ACFB0009D6237 /* InitBootcamp.swift */; };
+		FAF3422B2A8CE523002FE1AC /* PeopleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF3422A2A8CE523002FE1AC /* PeopleView.swift */; };
+		FAF3422D2A8CE541002FE1AC /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF3422C2A8CE541002FE1AC /* Person.swift */; };
+		FAF3422F2A8CE8AD002FE1AC /* PersonViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF3422E2A8CE8AD002FE1AC /* PersonViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -73,6 +76,9 @@
 		FAE18A782A4441AD00E6F57A /* BacgoundBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BacgoundBootcamp.swift; sourceTree = "<group>"; };
 		FAE3A35D2A4AC80A009D6237 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		FAE3A35F2A4ACFB0009D6237 /* InitBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitBootcamp.swift; sourceTree = "<group>"; };
+		FAF3422A2A8CE523002FE1AC /* PeopleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleView.swift; sourceTree = "<group>"; };
+		FAF3422C2A8CE541002FE1AC /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		FAF3422E2A8CE8AD002FE1AC /* PersonViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +140,7 @@
 				FA5987BB2A5E8B40003BC031 /* AnimationCurves.swift */,
 				FA5987BD2A5E956D003BC031 /* TransitionBootcamp.swift */,
 				FA8E305D2A6000B800727B89 /* SheetsBootcamp.swift */,
+				FAF342292A8CE3CB002FE1AC /* SwiftUIMVVM */,
 				FA8315652A41EFA20001256E /* Assets.xcassets */,
 				FA8315672A41EFA20001256E /* Preview Content */,
 			);
@@ -146,6 +153,16 @@
 				FA8315682A41EFA20001256E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FAF342292A8CE3CB002FE1AC /* SwiftUIMVVM */ = {
+			isa = PBXGroup;
+			children = (
+				FAF3422A2A8CE523002FE1AC /* PeopleView.swift */,
+				FAF3422C2A8CE541002FE1AC /* Person.swift */,
+				FAF3422E2A8CE8AD002FE1AC /* PersonViewModel.swift */,
+			);
+			path = SwiftUIMVVM;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,12 +246,15 @@
 				FA5F863C2A42DFD200D277B2 /* ColorBootcamp.swift in Sources */,
 				FA5DD8432A49751200A96083 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				FAE18A772A44326800E6F57A /* FrameBootcamp.swift in Sources */,
+				FAF3422D2A8CE541002FE1AC /* Person.swift in Sources */,
+				FAF3422B2A8CE523002FE1AC /* PeopleView.swift in Sources */,
 				FAE18A792A4441AD00E6F57A /* BacgoundBootcamp.swift in Sources */,
 				FA2CE5792A53F4CF00B3E6B9 /* ButtonsBootcamp.swift in Sources */,
 				FA0DAFA82A5577DC000AD6F5 /* ExtractedBootcamp.swift in Sources */,
 				FA387F222A52A3B20098E444 /* SafeAreaBootcamp.swift in Sources */,
 				FA4D20EB2A5D2B5B00224DA8 /* ConditionakBootcamp.swift in Sources */,
 				FA443EA42A5BED17005DA38D /* ExtractSubviewBootcap.swift in Sources */,
+				FAF3422F2A8CE8AD002FE1AC /* PersonViewModel.swift in Sources */,
 				FA5F86402A42E90C00D277B2 /* IconBootcamp.swift in Sources */,
 				FA8315642A41EFA00001256E /* ContentView.swift in Sources */,
 				FA5F5E432A4D5AB40089EDC1 /* ForEachBootcamp.swift in Sources */,
